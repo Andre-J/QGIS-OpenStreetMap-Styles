@@ -234,7 +234,7 @@
         <rule scalemaxdenom="100000" key="{54ec65ae-8114-4caa-8df7-2613522d61fa}" symbol="10" scalemindenom="25001" label="Z13+Z14"/>
         <rule scalemaxdenom="200000" key="{6bafc384-c3f3-477c-8848-8ee4344fd6a6}" symbol="11" scalemindenom="100001" label="Z12"/>
       </rule>
-      <rule scalemaxdenom="400000" filter=" &quot;highway&quot; ='primary'" key="{c0f39c58-3f89-4cc1-ad70-c4c374175552}" symbol="12" scalemindenom="1" label="primary">
+      <rule scalemaxdenom="400000" filter=" &quot;highway&quot; ='primary' OR &quot;highway&quot; ='primary_link'" key="{c0f39c58-3f89-4cc1-ad70-c4c374175552}" symbol="12" scalemindenom="1" label="primary">
         <rule scalemaxdenom="6250" key="{4d6f5899-ca6b-4d46-ae49-8fc1011a8175}" symbol="13" scalemindenom="1" label="Z17+18"/>
         <rule scalemaxdenom="25000" key="{f7b6ccd4-dc4c-433c-8f8a-ffaeda948883}" symbol="14" scalemindenom="6251" label="Z15+Z16"/>
         <rule scalemaxdenom="100000" key="{ab91e94a-b461-4f32-bc74-9d27454807e7}" symbol="15" scalemindenom="25001" label="Z13+Z14"/>
